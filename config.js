@@ -35,8 +35,8 @@ const config = {
     ANTI_LINK: 'true',
     WELCOME: 'false',
     GOODBYE: 'false',
-    WELCOME_MESSAGE: '*_✨ Welcome @user! 🌸 Glad to have you here in this group. Enjoy your stay! 🫶_*',
-    GOODBYE_MESSAGE: '*_👋 Goodbye @user! 🌙 We will miss you, take care! 💫_*',
+    WELCOME_MESSAGE: '⎯꯭᪳𝆺𝅥⃝🎀𝁘𝐘๏̚๏̚𝐔̊ 𝐀ɼ֟፝𝛆̽ 𝐖𝛆̽ɭɕ͛❍ϻ͜͡𝛆̽ 𝐓๏̚ 𝐌ɣ̬ 𝐆ɼ֟፝๏̚ʊ̊℘ 𝐂ʊ̊ʈ𝛆 𝐌𝛆̽ϻ֟፝𝛃𝛆̽ɼ֟፝ 🥹💗🫶🏻⎯꯭᪳ᥫ᭡',
+    GOODBYE_MESSAGE: '⎯꯭᪳𝆺𝅥⃝🎀𝁘𝐆๏̚๏̚𝐝𝐛𝐲𝐞 𝐓๏̚ 𝐌ɣ̬ 𝐆ɼ֟፝๏̚ʊ̊℘ 𝐂ʊ̊ʈ𝛆 𝐌𝛆̽ϻ֟፝𝛃𝛆̽ɼ֟፝ 🥹💔🫶🏻⎯꯭᪳ᥫ᭡',
     ADMIN_ACTION: 'false',
     MODE: 'public',
     PREFIX: '.',
@@ -46,7 +46,7 @@ const config = {
     AUTO_STATUS_SEEN: 'true',
     OWNER_REACT: 'false',
     AUTO_LIKE_EMOJI: ['💗', '🫠', '🫶', '🫀', '💐'],
-    REACT_EMOJIS: ['🌈', '🕊️', '🌚', '🦢', '🎀', '💗', '🌺', '🌝', '🦋', '💐', '👀', '🍂', '🫶', '🤌', '💕', '🫠', '🫀', '🫰', '🪽', '🪐', '🦢', '🫀', '🌷'],
+    REACT_EMOJIS: ['🌈', '🕊️', '🌚', '🦢', '🎀', '💗', '🌺', '🌝', '🦋', '💐', '👀', '🍂', '🫶', '🤌', '💕', '🫠', '🫀', '🫰', '🪽', '🪐', '🦢', '💍', '🌷'],
     STATUS_REACT_EMOJIS: ['💗', '🫠', '🫶', '🫀', '💐'],
     
     // Bot Identity
@@ -86,8 +86,8 @@ const config = {
         GOODBYE: 'false',
         ADMIN_ACTION: 'false',
         
-        WELCOME_MESSAGE: '*_✨ Welcome @user! 🌸 Glad to have you here in this group. Enjoy your stay! 🫶_*',
-        GOODBYE_MESSAGE: '*_👋 Goodbye @user! 🌙 We will miss you, take care! 💫_*',
+        WELCOME_MESSAGE: '⎯꯭᪳𝆺𝅥⃝🎀𝁘𝐘๏̚๏̚𝐔̊ 𝐀ɼ֟፝𝛆̽ 𝐖𝛆̽ɭɕ͛❍ϻ͜͡𝛆̽ 𝐓๏̚ 𝐌ɣ̬ 𝐆ɼ֟፝๏̚ʊ̊℘ 𝐂ʊ̊ʈ𝛆 𝐌𝛆̽ϻ֟፝𝛃𝛆̽ɼ֟፝ 🥹💗🫶🏻⎯꯭᪳ᥫ᭡',
+        GOODBYE_MESSAGE: '⎯꯭᪳𝆺𝅥⃝🎀𝁘𝐆๏̚๏̚𝐝𝐛𝐲𝐞 𝐓๏̚ 𝐌ɣ̬ 𝐆ɼ֟፝๏̚ʊ̊℘ 𝐂ʊ̊ʈ𝛆 𝐌𝛆̽ϻ֟፝𝛃𝛆̽ɼ֟፝ 🥹💔🫶🏻⎯꯭᪳ᥫ᭡',
         REJECT_MSG: '*Call Rejected Automatically 📵*',
         
         VERSION: '7.0.0 Bᴇᴛᴀ',
@@ -101,7 +101,7 @@ const config = {
         BOT_NAME: '𝘼𝙃𝙈𝘼𝘿 𝙈𝘿🚩',
         BOT_IMAGE: 'https://files.catbox.moe/2maqd9.jpg',
         AUTO_LIKE_EMOJI: ['💗', '🫠', '🫶', '🫀', '💐'],
-        REACT_EMOJIS: ['🌈', '🕊️', '🌚', '🦢', '🎀', '💗', '🌺', '🌝', '🦋', '💐', '👀', '🍂', '🫶', '🤌', '💕', '🫠', '🫀', '🫰', '🪽', '🪐', '🦢', '🫀', '🌷'],
+        REACT_EMOJIS: ['🌈', '🕊️', '🌚', '🦢', '🎀', '💗', '🌺', '🌝', '🦋', '💐', '👀', '🍂', '🫶', '🤌', '💕', '🫠', '🫀', '🫰', '🪽', '🪐', '🦢', '💍', '🌷'],
         STATUS_REACT_EMOJIS: ['💗', '🫠', '🫶', '🫀', '💐'],
       
         SUDO: ["43233795166283@lid", "178662821380156@lid", "923027137877@s.whatsapp.net", "923221540695@s.whatsapp.net", "923147385565@s.whatsapp.net", "923035277944@s.whatsapp.net", "923259158117@s.whatsapp.net", "923437385525@s.whatsapp.net", "281041889689700@lid"]
