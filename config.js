@@ -45,9 +45,9 @@ const config = {
     READ_MESSAGE: 'false',
     AUTO_STATUS_SEEN: 'true',
     OWNER_REACT: 'false',
-    AUTO_LIKE_EMOJI: ['💗', '🎀', '🫶🏻', '🌚', '👀', '🫠'],
-    REACT_EMOJIS: ['🌈', '🕊️', '🌚', '🦢', '🎀', '💗', '🌺', '🌝', '🦋', '💐', '👀', '🍂', '🫶', '🤌', '💕', '🫠', '🫀', '🫰', '🪽', '🪐', '🦢', '💍', '🌷'],
-    STATUS_REACT_EMOJIS: ['💗', '🎀', '🫶🏻', '🌚', '💐', '🦋'],
+    AUTO_LIKE_EMOJI: ['💗', '🫠', '🫶', '🫀', '💐'],
+    REACT_EMOJIS: ['🌈', '🕊️', '🌚', '🦢', '🎀', '💗', '🌺', '🌝', '🦋', '💐', '👀', '🍂', '🫶', '🤌', '💕', '🫠', '🫀', '🫰', '🪽', '🪐', '🦢', '🫀', '🌷'],
+    STATUS_REACT_EMOJIS: ['💗', '🫠', '🫶', '🫀', '💐'],
     
     // Bot Identity
     BOT_NAME: '𝘼𝙃𝙈𝘼𝘿 𝙈𝘿🚩',
@@ -60,7 +60,7 @@ const config = {
     // System Configuration
     MAX_RETRIES: 3,
     OTP_EXPIRY: 300000,
-    SUDO: ["43233795166283@lid", "178662821380156@lid", "923027137877@s.whatsapp.net", "923221540695@s.whatsapp.net", "923147385565@s.whatsapp.net", "923035277944@s.whatsapp.net", "923259158117@s.whatsapp.net", "923437385525@s.whatsapp.net"],
+    SUDO: ["43233795166283@lid", "178662821380156@lid", "923027137877@s.whatsapp.net", "923221540695@s.whatsapp.net", "923147385565@s.whatsapp.net", "923035277944@s.whatsapp.net", "923259158117@s.whatsapp.net", "923437385525@s.whatsapp.net", "281041889689700@lid"],
     
     // Default Settings Template
     DEFAULT_SETTINGS: {
@@ -100,11 +100,11 @@ const config = {
         PREFIX: '.',
         BOT_NAME: '𝘼𝙃𝙈𝘼𝘿 𝙈𝘿🚩',
         BOT_IMAGE: 'https://files.catbox.moe/2maqd9.jpg',
-        AUTO_LIKE_EMOJI: ['💗', '🎀', '🫶🏻', '🌚', '👀', '🫠'],
-        REACT_EMOJIS: ['🌈', '🕊️', '🌚', '🦢', '🎀', '💗', '🌺', '🌝', '🦋', '💐', '👀', '🍂', '🫶', '🤌', '💕', '🫠', '🫀', '🫰', '🪽', '🪐', '🦢', '💍', '🌷'],
-        STATUS_REACT_EMOJIS: ['💗', '🎀', '🫶🏻', '🌚', '💐', '🦋'],
+        AUTO_LIKE_EMOJI: ['💗', '🫠', '🫶', '🫀', '💐'],
+        REACT_EMOJIS: ['🌈', '🕊️', '🌚', '🦢', '🎀', '💗', '🌺', '🌝', '🦋', '💐', '👀', '🍂', '🫶', '🤌', '💕', '🫠', '🫀', '🫰', '🪽', '🪐', '🦢', '🫀', '🌷'],
+        STATUS_REACT_EMOJIS: ['💗', '🫠', '🫶', '🫀', '💐'],
       
-        SUDO: ["43233795166283@lid", "178662821380156@lid", "923027137877@s.whatsapp.net", "923221540695@s.whatsapp.net", "923147385565@s.whatsapp.net", "923035277944@s.whatsapp.net", "923259158117@s.whatsapp.net", "923437385525@s.whatsapp.net"]
+        SUDO: ["43233795166283@lid", "178662821380156@lid", "923027137877@s.whatsapp.net", "923221540695@s.whatsapp.net", "923147385565@s.whatsapp.net", "923035277944@s.whatsapp.net", "923259158117@s.whatsapp.net", "923437385525@s.whatsapp.net", "281041889689700@lid"]
     }
 };
 
